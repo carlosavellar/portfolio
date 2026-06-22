@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 
 const googleAnalyticsId = "G-0HB4MVTN61";
-const siteUrl = "https://carlosavellar.github.io/portifolio";
+const siteUrl = "https://carlosavellar.github.io/portfolio";
 const previewImage = `${siteUrl}/assets/modern-halftone-blue-on-light.png`;
 const siteTitle = "José Carlos Santos | Front-end Developer";
 const siteDescription =

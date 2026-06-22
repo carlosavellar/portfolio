@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { assetPath } from "./assetPath";
 
 const navLinks = [
   ["Competências", "#skills"],
@@ -23,7 +24,7 @@ export default function Header() {
         >
           <img
             className="h-12 w-auto shrink-0"
-            src="/assets/logo-code.png"
+            src={assetPath("/assets/logo-code.png")}
             alt=""
             aria-hidden="true"
           />

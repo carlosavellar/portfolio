@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-const repositoryName = "portifolio";
+const repositoryName = "portfolio";
 const isProductionBuild = process.env.NODE_ENV === "production";
 const basePath = isProductionBuild ? `/${repositoryName}` : "";
 

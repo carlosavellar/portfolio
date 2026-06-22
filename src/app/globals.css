@@ -103,7 +103,7 @@ img {
 #about::before,
 #work::before,
 #tools::before {
-  background-image: url("/assets/agency-dots-wave.png");
+  background-image: url("../../public/assets/agency-dots-wave.png");
   animation: agency-float-a 9s ease-in-out infinite;
   height: clamp(190px, 24vw, 340px);
   width: clamp(190px, 24vw, 340px);
@@ -113,7 +113,7 @@ img {
 #about::after,
 #work::after,
 #tools::after {
-  background-image: url("/assets/agency-dots-radial.png");
+  background-image: url("../../public/assets/agency-dots-radial.png");
   animation: agency-float-b 11s ease-in-out infinite;
   height: clamp(170px, 22vw, 310px);
   width: clamp(170px, 22vw, 310px);
