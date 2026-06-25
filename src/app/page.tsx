@@ -137,7 +137,7 @@ export default function Home() {
             Competências principais
           </p>
           <h2 className="mb-0 text-[clamp(1.65rem,3.1vw,2.25rem)] font-black leading-[1.05] text-[#11152b]">
-            Front-end com base técnica, olhar de design e foco em produto.
+            Front-end com base técnica, olhar de design e foco em product!
           </h2>
         </div>
 
