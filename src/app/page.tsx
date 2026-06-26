@@ -91,7 +91,7 @@ export default function Home() {
               Front-end Developer | React | Next.js
             </p>
             <h1 className="mb-5 text-[clamp(2.45rem,6vw,4.6rem)] font-bold leading-[0.95] max-[560px]:mb-2 max-[560px]:text-[1.75rem]">
-              José Carlos Santos
+              José Carlos dos Santos
             </h1>
             <p className="max-w-[640px] text-[clamp(1rem,1.6vw,1.18rem)] leading-7 text-white/82 max-[560px]:text-xs max-[560px]:leading-5">
               Desenvolvedor front-end com experiência em React, Next.js,
